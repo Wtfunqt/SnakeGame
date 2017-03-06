@@ -2,6 +2,6 @@
  * Created by Ademir on 3/6/2017.
  */
 
-public class Mouse {
+public enum SnakeDirection {
 
 }
